@@ -1,0 +1,12 @@
+[Unit]
+After=network.target
+Description=lmbachel_bot
+
+[Service]
+Type=simple
+WorkingDirectory=
+ExecStart=
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
