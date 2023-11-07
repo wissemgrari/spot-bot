@@ -6,7 +6,7 @@ bot_name = BOT_NAME
 bot_username = BOT_USERNAME
 
 # message for /start command
-welcome_message = '''Welcome to @lmbachel_bot
+welcome_message = f'''Welcome to {BOT_USERNAME}
 
 Send me a link from spotify and I'll download it for you.
 
